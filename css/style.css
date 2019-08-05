@@ -1078,17 +1078,17 @@ FOOTER
         text-align: center;
     }
 
-    /* footer  .copyright .email{
+    footer  .email{
         color: #ffde59;
         font-size: 1.5em;
         text-align: center;
     }
 
-    footer .copyright .number{
+    footer .number{
         color: #ffde59;
         font-size: 1.5em;
         text-align: center;
-    } */
+    }
     .icon {
         opacity: 0.8;
         cursor: pointer;
